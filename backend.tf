@@ -2,7 +2,7 @@
 
 terraform {
   backend "remote" {
-    organization = "marcofno"
+    organization = ""
 
     //"VPC-aws"
 
